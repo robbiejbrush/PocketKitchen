@@ -8,4 +8,5 @@ Demo: https://drive.google.com/file/d/1_6D_kw8QlOE2BoW0NrpnXt98areZ0ZVz/view?usp
 
 Screenshots: https://drive.google.com/drive/folders/19RgcGQ02VeoqnRX9K6fL8rYOZBV7PjUs?usp=sharing
 
+Authors: Robbie Brush, Farina Mahboob
 
